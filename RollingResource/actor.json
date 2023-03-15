@@ -1,0 +1,20 @@
+[
+    {
+        "id": 60001,
+        "life": 1,
+        "android_speed": 0.2,
+        "pc_speed": 10.0
+    },
+    {
+        "id": 60002,
+        "life": 1,
+        "android_speed": 0.2,
+        "pc_speed": 10.0
+    },
+    {
+        "id": 60003,
+        "life": 1,
+        "android_speed": 0.2,
+        "pc_speed": 10.0
+    }
+]
