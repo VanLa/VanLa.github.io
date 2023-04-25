@@ -1,0 +1,2746 @@
+[
+    {
+        "ID": 1,
+        "track": 2,
+        "type": 0,
+        "time_begin": 888,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 2,
+        "track": 3,
+        "type": 0,
+        "time_begin": 1119,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 3,
+        "track": 1,
+        "type": 0,
+        "time_begin": 1350,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 4,
+        "track": 3,
+        "type": 0,
+        "time_begin": 1580,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 5,
+        "track": 2,
+        "type": 0,
+        "time_begin": 1811,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 6,
+        "track": 4,
+        "type": 0,
+        "time_begin": 2042,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 7,
+        "track": 3,
+        "type": 0,
+        "time_begin": 2273,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 8,
+        "track": 1,
+        "type": 0,
+        "time_begin": 2504,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 9,
+        "track": 3,
+        "type": 0,
+        "time_begin": 2734,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 10,
+        "track": 2,
+        "type": 0,
+        "time_begin": 2965,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 11,
+        "track": 4,
+        "type": 0,
+        "time_begin": 3196,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 12,
+        "track": 1,
+        "type": 0,
+        "time_begin": 3427,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 13,
+        "track": 2,
+        "type": 0,
+        "time_begin": 3657,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 14,
+        "track": 4,
+        "type": 0,
+        "time_begin": 3657,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 15,
+        "track": 3,
+        "type": 0,
+        "time_begin": 3888,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 16,
+        "track": 1,
+        "type": 0,
+        "time_begin": 4119,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 17,
+        "track": 3,
+        "type": 0,
+        "time_begin": 4350,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 18,
+        "track": 2,
+        "type": 0,
+        "time_begin": 4580,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 19,
+        "track": 4,
+        "type": 0,
+        "time_begin": 4811,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 20,
+        "track": 3,
+        "type": 0,
+        "time_begin": 5042,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 21,
+        "track": 2,
+        "type": 0,
+        "time_begin": 5273,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 22,
+        "track": 3,
+        "type": 0,
+        "time_begin": 5504,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 23,
+        "track": 1,
+        "type": 0,
+        "time_begin": 5734,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 24,
+        "track": 3,
+        "type": 0,
+        "time_begin": 5965,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 25,
+        "track": 2,
+        "type": 0,
+        "time_begin": 6196,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 26,
+        "track": 1,
+        "type": 0,
+        "time_begin": 6427,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 27,
+        "track": 3,
+        "type": 0,
+        "time_begin": 6427,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 28,
+        "track": 2,
+        "type": 0,
+        "time_begin": 6657,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 29,
+        "track": 4,
+        "type": 0,
+        "time_begin": 6888,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 30,
+        "track": 3,
+        "type": 0,
+        "time_begin": 7119,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 31,
+        "track": 2,
+        "type": 0,
+        "time_begin": 7350,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 32,
+        "track": 3,
+        "type": 0,
+        "time_begin": 7580,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 33,
+        "track": 1,
+        "type": 0,
+        "time_begin": 7811,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 34,
+        "track": 4,
+        "type": 0,
+        "time_begin": 8042,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 35,
+        "track": 2,
+        "type": 0,
+        "time_begin": 8273,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 36,
+        "track": 3,
+        "type": 0,
+        "time_begin": 8504,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 37,
+        "track": 1,
+        "type": 0,
+        "time_begin": 8734,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 38,
+        "track": 3,
+        "type": 0,
+        "time_begin": 8965,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 39,
+        "track": 2,
+        "type": 0,
+        "time_begin": 9196,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 40,
+        "track": 4,
+        "type": 0,
+        "time_begin": 9196,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 41,
+        "track": 3,
+        "type": 0,
+        "time_begin": 9427,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 42,
+        "track": 1,
+        "type": 0,
+        "time_begin": 9657,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 43,
+        "track": 3,
+        "type": 0,
+        "time_begin": 9888,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 44,
+        "track": 2,
+        "type": 0,
+        "time_begin": 10119,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 45,
+        "track": 4,
+        "type": 0,
+        "time_begin": 10350,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 46,
+        "track": 1,
+        "type": 0,
+        "time_begin": 10580,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 47,
+        "track": 3,
+        "type": 0,
+        "time_begin": 10811,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 48,
+        "track": 2,
+        "type": 0,
+        "time_begin": 11042,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 49,
+        "track": 4,
+        "type": 0,
+        "time_begin": 11273,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 50,
+        "track": 1,
+        "type": 0,
+        "time_begin": 11504,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 51,
+        "track": 3,
+        "type": 0,
+        "time_begin": 11734,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 52,
+        "track": 2,
+        "type": 0,
+        "time_begin": 11965,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 53,
+        "track": 4,
+        "type": 0,
+        "time_begin": 11965,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 54,
+        "track": 3,
+        "type": 0,
+        "time_begin": 12196,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 55,
+        "track": 1,
+        "type": 0,
+        "time_begin": 12427,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 56,
+        "track": 3,
+        "type": 0,
+        "time_begin": 12657,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 57,
+        "track": 2,
+        "type": 0,
+        "time_begin": 12888,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 58,
+        "track": 4,
+        "type": 0,
+        "time_begin": 13119,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 59,
+        "track": 1,
+        "type": 0,
+        "time_begin": 13350,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 60,
+        "track": 3,
+        "type": 0,
+        "time_begin": 13580,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 61,
+        "track": 2,
+        "type": 0,
+        "time_begin": 13811,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 62,
+        "track": 3,
+        "type": 0,
+        "time_begin": 14042,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 63,
+        "track": 1,
+        "type": 0,
+        "time_begin": 14273,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 64,
+        "track": 4,
+        "type": 0,
+        "time_begin": 14504,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 65,
+        "track": 1,
+        "type": 0,
+        "time_begin": 14734,
+        "time_end": 0,
+        "switch": 1
+    },
+    {
+        "ID": 66,
+        "track": 3,
+        "type": 0,
+        "time_begin": 14734,
+        "time_end": 0,
+        "switch": 1
+    },
+    {
+        "ID": 67,
+        "track": 2,
+        "type": 0,
+        "time_begin": 14965,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 68,
+        "track": 1,
+        "type": 0,
+        "time_begin": 15196,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 69,
+        "track": 2,
+        "type": 0,
+        "time_begin": 15427,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 70,
+        "track": 1,
+        "type": 0,
+        "time_begin": 15657,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 71,
+        "track": 2,
+        "type": 0,
+        "time_begin": 15888,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 72,
+        "track": 1,
+        "type": 0,
+        "time_begin": 16119,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 73,
+        "track": 3,
+        "type": 0,
+        "time_begin": 16350,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 74,
+        "track": 4,
+        "type": 0,
+        "time_begin": 16580,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 75,
+        "track": 3,
+        "type": 0,
+        "time_begin": 16811,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 76,
+        "track": 4,
+        "type": 0,
+        "time_begin": 17042,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 77,
+        "track": 3,
+        "type": 0,
+        "time_begin": 17273,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 78,
+        "track": 4,
+        "type": 0,
+        "time_begin": 17504,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 79,
+        "track": 2,
+        "type": 0,
+        "time_begin": 17504,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 80,
+        "track": 3,
+        "type": 0,
+        "time_begin": 17734,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 81,
+        "track": 2,
+        "type": 0,
+        "time_begin": 17965,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 82,
+        "track": 3,
+        "type": 0,
+        "time_begin": 18196,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 83,
+        "track": 1,
+        "type": 0,
+        "time_begin": 18427,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 84,
+        "track": 3,
+        "type": 0,
+        "time_begin": 18657,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 85,
+        "track": 2,
+        "type": 0,
+        "time_begin": 18888,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 86,
+        "track": 3,
+        "type": 0,
+        "time_begin": 19119,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 87,
+        "track": 1,
+        "type": 0,
+        "time_begin": 19350,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 88,
+        "track": 3,
+        "type": 1,
+        "time_begin": 19580,
+        "time_end": 20273,
+        "switch": 0
+    },
+    {
+        "ID": 89,
+        "track": 4,
+        "type": 1,
+        "time_begin": 20273,
+        "time_end": 20734,
+        "switch": 0
+    },
+    {
+        "ID": 90,
+        "track": 2,
+        "type": 0,
+        "time_begin": 20734,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 91,
+        "track": 3,
+        "type": 0,
+        "time_begin": 20965,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 92,
+        "track": 1,
+        "type": 0,
+        "time_begin": 21196,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 93,
+        "track": 3,
+        "type": 0,
+        "time_begin": 21427,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 94,
+        "track": 2,
+        "type": 1,
+        "time_begin": 21657,
+        "time_end": 22119,
+        "switch": 0
+    },
+    {
+        "ID": 95,
+        "track": 1,
+        "type": 0,
+        "time_begin": 22119,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 96,
+        "track": 2,
+        "type": 0,
+        "time_begin": 22350,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 97,
+        "track": 3,
+        "type": 0,
+        "time_begin": 22580,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 98,
+        "track": 4,
+        "type": 0,
+        "time_begin": 22811,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 99,
+        "track": 3,
+        "type": 1,
+        "time_begin": 23042,
+        "time_end": 23504,
+        "switch": 0
+    },
+    {
+        "ID": 100,
+        "track": 2,
+        "type": 0,
+        "time_begin": 23504,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 101,
+        "track": 1,
+        "type": 0,
+        "time_begin": 23734,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 102,
+        "track": 4,
+        "type": 0,
+        "time_begin": 23965,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 103,
+        "track": 2,
+        "type": 0,
+        "time_begin": 24196,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 104,
+        "track": 3,
+        "type": 0,
+        "time_begin": 24427,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 105,
+        "track": 2,
+        "type": 0,
+        "time_begin": 24657,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 106,
+        "track": 3,
+        "type": 0,
+        "time_begin": 24888,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 107,
+        "track": 1,
+        "type": 0,
+        "time_begin": 25119,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 108,
+        "track": 3,
+        "type": 0,
+        "time_begin": 25350,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 109,
+        "track": 2,
+        "type": 0,
+        "time_begin": 25580,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 110,
+        "track": 1,
+        "type": 1,
+        "time_begin": 25811,
+        "time_end": 26273,
+        "switch": 0
+    },
+    {
+        "ID": 111,
+        "track": 4,
+        "type": 0,
+        "time_begin": 26273,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 112,
+        "track": 3,
+        "type": 0,
+        "time_begin": 26504,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 113,
+        "track": 4,
+        "type": 0,
+        "time_begin": 26734,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 114,
+        "track": 3,
+        "type": 0,
+        "time_begin": 26965,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 115,
+        "track": 2,
+        "type": 1,
+        "time_begin": 27196,
+        "time_end": 27657,
+        "switch": 0
+    },
+    {
+        "ID": 116,
+        "track": 3,
+        "type": 0,
+        "time_begin": 27657,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 117,
+        "track": 4,
+        "type": 0,
+        "time_begin": 27888,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 118,
+        "track": 3,
+        "type": 0,
+        "time_begin": 28119,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 119,
+        "track": 2,
+        "type": 0,
+        "time_begin": 28350,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 120,
+        "track": 3,
+        "type": 1,
+        "time_begin": 28580,
+        "time_end": 29042,
+        "switch": 0
+    },
+    {
+        "ID": 121,
+        "track": 1,
+        "type": 0,
+        "time_begin": 29042,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 122,
+        "track": 3,
+        "type": 0,
+        "time_begin": 29273,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 123,
+        "track": 2,
+        "type": 0,
+        "time_begin": 29504,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 124,
+        "track": 4,
+        "type": 0,
+        "time_begin": 29734,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 125,
+        "track": 3,
+        "type": 0,
+        "time_begin": 29965,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 126,
+        "track": 1,
+        "type": 0,
+        "time_begin": 29965,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 127,
+        "track": 2,
+        "type": 0,
+        "time_begin": 30196,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 128,
+        "track": 3,
+        "type": 0,
+        "time_begin": 30427,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 129,
+        "track": 2,
+        "type": 0,
+        "time_begin": 30657,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 130,
+        "track": 4,
+        "type": 0,
+        "time_begin": 30888,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 131,
+        "track": 3,
+        "type": 0,
+        "time_begin": 31119,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 132,
+        "track": 1,
+        "type": 1,
+        "time_begin": 31350,
+        "time_end": 31811,
+        "switch": 0
+    },
+    {
+        "ID": 133,
+        "track": 2,
+        "type": 1,
+        "time_begin": 31811,
+        "time_end": 32273,
+        "switch": 0
+    },
+    {
+        "ID": 134,
+        "track": 3,
+        "type": 1,
+        "time_begin": 32273,
+        "time_end": 32734,
+        "switch": 0
+    },
+    {
+        "ID": 135,
+        "track": 4,
+        "type": 1,
+        "time_begin": 32734,
+        "time_end": 33196,
+        "switch": 0
+    },
+    {
+        "ID": 136,
+        "track": 1,
+        "type": 0,
+        "time_begin": 33196,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 137,
+        "track": 3,
+        "type": 0,
+        "time_begin": 33427,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 138,
+        "track": 2,
+        "type": 0,
+        "time_begin": 33657,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 139,
+        "track": 4,
+        "type": 0,
+        "time_begin": 33888,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 140,
+        "track": 3,
+        "type": 1,
+        "time_begin": 34119,
+        "time_end": 34580,
+        "switch": 0
+    },
+    {
+        "ID": 141,
+        "track": 1,
+        "type": 0,
+        "time_begin": 34580,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 142,
+        "track": 3,
+        "type": 0,
+        "time_begin": 34811,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 143,
+        "track": 2,
+        "type": 0,
+        "time_begin": 35042,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 144,
+        "track": 4,
+        "type": 0,
+        "time_begin": 35273,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 145,
+        "track": 3,
+        "type": 0,
+        "time_begin": 35504,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 146,
+        "track": 1,
+        "type": 0,
+        "time_begin": 35734,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 147,
+        "track": 3,
+        "type": 0,
+        "time_begin": 35965,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 148,
+        "track": 2,
+        "type": 0,
+        "time_begin": 36196,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 149,
+        "track": 3,
+        "type": 0,
+        "time_begin": 36427,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 150,
+        "track": 1,
+        "type": 0,
+        "time_begin": 36657,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 151,
+        "track": 4,
+        "type": 0,
+        "time_begin": 36888,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 152,
+        "track": 3,
+        "type": 0,
+        "time_begin": 37119,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 153,
+        "track": 4,
+        "type": 0,
+        "time_begin": 37350,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 154,
+        "track": 3,
+        "type": 0,
+        "time_begin": 37580,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 155,
+        "track": 1,
+        "type": 0,
+        "time_begin": 37811,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 156,
+        "track": 2,
+        "type": 0,
+        "time_begin": 38042,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 157,
+        "track": 1,
+        "type": 0,
+        "time_begin": 38273,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 158,
+        "track": 2,
+        "type": 0,
+        "time_begin": 38504,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 159,
+        "track": 4,
+        "type": 0,
+        "time_begin": 38734,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 160,
+        "track": 3,
+        "type": 1,
+        "time_begin": 38965,
+        "time_end": 39657,
+        "switch": 1
+    },
+    {
+        "ID": 161,
+        "track": 2,
+        "type": 1,
+        "time_begin": 39657,
+        "time_end": 40119,
+        "switch": 0
+    },
+    {
+        "ID": 162,
+        "track": 1,
+        "type": 0,
+        "time_begin": 40119,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 163,
+        "track": 3,
+        "type": 0,
+        "time_begin": 40350,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 164,
+        "track": 2,
+        "type": 0,
+        "time_begin": 40580,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 165,
+        "track": 4,
+        "type": 0,
+        "time_begin": 40811,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 166,
+        "track": 2,
+        "type": 0,
+        "time_begin": 41042,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 167,
+        "track": 3,
+        "type": 0,
+        "time_begin": 41273,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 168,
+        "track": 1,
+        "type": 0,
+        "time_begin": 41504,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 169,
+        "track": 3,
+        "type": 0,
+        "time_begin": 41734,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 170,
+        "track": 2,
+        "type": 0,
+        "time_begin": 41965,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 171,
+        "track": 4,
+        "type": 0,
+        "time_begin": 42196,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 172,
+        "track": 3,
+        "type": 1,
+        "time_begin": 42427,
+        "time_end": 42888,
+        "switch": 0
+    },
+    {
+        "ID": 173,
+        "track": 1,
+        "type": 0,
+        "time_begin": 42888,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 174,
+        "track": 3,
+        "type": 0,
+        "time_begin": 43119,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 175,
+        "track": 2,
+        "type": 0,
+        "time_begin": 43350,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 176,
+        "track": 3,
+        "type": 0,
+        "time_begin": 43580,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 177,
+        "track": 1,
+        "type": 1,
+        "time_begin": 43811,
+        "time_end": 44273,
+        "switch": 0
+    },
+    {
+        "ID": 178,
+        "track": 2,
+        "type": 0,
+        "time_begin": 44273,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 179,
+        "track": 3,
+        "type": 0,
+        "time_begin": 44504,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 180,
+        "track": 4,
+        "type": 0,
+        "time_begin": 44734,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 181,
+        "track": 2,
+        "type": 0,
+        "time_begin": 44965,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 182,
+        "track": 3,
+        "type": 1,
+        "time_begin": 45196,
+        "time_end": 45657,
+        "switch": 0
+    },
+    {
+        "ID": 183,
+        "track": 1,
+        "type": 0,
+        "time_begin": 45657,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 184,
+        "track": 4,
+        "type": 0,
+        "time_begin": 45888,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 185,
+        "track": 1,
+        "type": 0,
+        "time_begin": 46119,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 186,
+        "track": 4,
+        "type": 0,
+        "time_begin": 46350,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 187,
+        "track": 2,
+        "type": 1,
+        "time_begin": 46580,
+        "time_end": 47042,
+        "switch": 0
+    },
+    {
+        "ID": 188,
+        "track": 3,
+        "type": 0,
+        "time_begin": 47042,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 189,
+        "track": 4,
+        "type": 0,
+        "time_begin": 47273,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 190,
+        "track": 3,
+        "type": 0,
+        "time_begin": 47504,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 191,
+        "track": 2,
+        "type": 0,
+        "time_begin": 47734,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 192,
+        "track": 3,
+        "type": 1,
+        "time_begin": 47965,
+        "time_end": 48427,
+        "switch": 0
+    },
+    {
+        "ID": 193,
+        "track": 1,
+        "type": 0,
+        "time_begin": 48427,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 194,
+        "track": 2,
+        "type": 0,
+        "time_begin": 48657,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 195,
+        "track": 1,
+        "type": 0,
+        "time_begin": 48888,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 196,
+        "track": 2,
+        "type": 0,
+        "time_begin": 49119,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 197,
+        "track": 3,
+        "type": 0,
+        "time_begin": 49350,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 198,
+        "track": 4,
+        "type": 0,
+        "time_begin": 49580,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 199,
+        "track": 3,
+        "type": 0,
+        "time_begin": 49811,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 200,
+        "track": 4,
+        "type": 0,
+        "time_begin": 50042,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 201,
+        "track": 3,
+        "type": 1,
+        "time_begin": 50273,
+        "time_end": 50734,
+        "switch": 0
+    },
+    {
+        "ID": 202,
+        "track": 2,
+        "type": 1,
+        "time_begin": 50734,
+        "time_end": 51196,
+        "switch": 0
+    },
+    {
+        "ID": 203,
+        "track": 1,
+        "type": 1,
+        "time_begin": 51196,
+        "time_end": 51657,
+        "switch": 0
+    },
+    {
+        "ID": 204,
+        "track": 2,
+        "type": 1,
+        "time_begin": 51657,
+        "time_end": 52119,
+        "switch": 0
+    },
+    {
+        "ID": 205,
+        "track": 3,
+        "type": 1,
+        "time_begin": 52119,
+        "time_end": 52580,
+        "switch": 0
+    },
+    {
+        "ID": 206,
+        "track": 4,
+        "type": 0,
+        "time_begin": 52580,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 207,
+        "track": 3,
+        "type": 0,
+        "time_begin": 52811,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 208,
+        "track": 4,
+        "type": 0,
+        "time_begin": 53042,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 209,
+        "track": 2,
+        "type": 0,
+        "time_begin": 53273,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 210,
+        "track": 3,
+        "type": 1,
+        "time_begin": 53504,
+        "time_end": 53965,
+        "switch": 0
+    },
+    {
+        "ID": 211,
+        "track": 1,
+        "type": 0,
+        "time_begin": 53965,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 212,
+        "track": 3,
+        "type": 0,
+        "time_begin": 54196,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 213,
+        "track": 2,
+        "type": 0,
+        "time_begin": 54427,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 214,
+        "track": 1,
+        "type": 0,
+        "time_begin": 54657,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 215,
+        "track": 3,
+        "type": 0,
+        "time_begin": 54888,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 216,
+        "track": 2,
+        "type": 0,
+        "time_begin": 55119,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 217,
+        "track": 4,
+        "type": 0,
+        "time_begin": 55350,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 218,
+        "track": 2,
+        "type": 0,
+        "time_begin": 55580,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 219,
+        "track": 3,
+        "type": 0,
+        "time_begin": 55811,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 220,
+        "track": 1,
+        "type": 0,
+        "time_begin": 56042,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 221,
+        "track": 3,
+        "type": 1,
+        "time_begin": 56273,
+        "time_end": 56734,
+        "switch": 0
+    },
+    {
+        "ID": 222,
+        "track": 1,
+        "type": 0,
+        "time_begin": 56734,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 223,
+        "track": 3,
+        "type": 0,
+        "time_begin": 56965,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 224,
+        "track": 2,
+        "type": 0,
+        "time_begin": 57196,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 225,
+        "track": 4,
+        "type": 0,
+        "time_begin": 57427,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 226,
+        "track": 3,
+        "type": 1,
+        "time_begin": 57657,
+        "time_end": 58119,
+        "switch": 0
+    },
+    {
+        "ID": 227,
+        "track": 4,
+        "type": 0,
+        "time_begin": 58119,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 228,
+        "track": 1,
+        "type": 0,
+        "time_begin": 58350,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 229,
+        "track": 3,
+        "type": 0,
+        "time_begin": 58580,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 230,
+        "track": 2,
+        "type": 0,
+        "time_begin": 58811,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 231,
+        "track": 4,
+        "type": 1,
+        "time_begin": 59042,
+        "time_end": 59504,
+        "switch": 0
+    },
+    {
+        "ID": 232,
+        "track": 1,
+        "type": 0,
+        "time_begin": 59504,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 233,
+        "track": 3,
+        "type": 0,
+        "time_begin": 59734,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 234,
+        "track": 2,
+        "type": 0,
+        "time_begin": 59965,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 235,
+        "track": 4,
+        "type": 0,
+        "time_begin": 60196,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 236,
+        "track": 2,
+        "type": 0,
+        "time_begin": 60427,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 237,
+        "track": 3,
+        "type": 0,
+        "time_begin": 60657,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 238,
+        "track": 1,
+        "type": 0,
+        "time_begin": 60888,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 239,
+        "track": 3,
+        "type": 0,
+        "time_begin": 61119,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 240,
+        "track": 2,
+        "type": 0,
+        "time_begin": 61350,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 241,
+        "track": 4,
+        "type": 0,
+        "time_begin": 61580,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 242,
+        "track": 3,
+        "type": 1,
+        "time_begin": 61811,
+        "time_end": 62273,
+        "switch": 1
+    },
+    {
+        "ID": 243,
+        "track": 1,
+        "type": 0,
+        "time_begin": 62273,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 244,
+        "track": 3,
+        "type": 0,
+        "time_begin": 62504,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 245,
+        "track": 2,
+        "type": 0,
+        "time_begin": 62734,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 246,
+        "track": 4,
+        "type": 0,
+        "time_begin": 62965,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 247,
+        "track": 3,
+        "type": 1,
+        "time_begin": 63196,
+        "time_end": 63657,
+        "switch": 0
+    },
+    {
+        "ID": 248,
+        "track": 1,
+        "type": 0,
+        "time_begin": 63657,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 249,
+        "track": 3,
+        "type": 0,
+        "time_begin": 63888,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 250,
+        "track": 2,
+        "type": 0,
+        "time_begin": 64119,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 251,
+        "track": 4,
+        "type": 0,
+        "time_begin": 64350,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 252,
+        "track": 3,
+        "type": 1,
+        "time_begin": 64580,
+        "time_end": 65042,
+        "switch": 0
+    },
+    {
+        "ID": 253,
+        "track": 1,
+        "type": 0,
+        "time_begin": 65042,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 254,
+        "track": 3,
+        "type": 0,
+        "time_begin": 65273,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 255,
+        "track": 2,
+        "type": 0,
+        "time_begin": 65504,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 256,
+        "track": 4,
+        "type": 0,
+        "time_begin": 65734,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 257,
+        "track": 3,
+        "type": 1,
+        "time_begin": 65965,
+        "time_end": 66427,
+        "switch": 0
+    },
+    {
+        "ID": 258,
+        "track": 1,
+        "type": 0,
+        "time_begin": 66427,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 259,
+        "track": 3,
+        "type": 0,
+        "time_begin": 66657,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 260,
+        "track": 2,
+        "type": 0,
+        "time_begin": 66888,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 261,
+        "track": 4,
+        "type": 0,
+        "time_begin": 67119,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 262,
+        "track": 3,
+        "type": 0,
+        "time_begin": 67350,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 263,
+        "track": 1,
+        "type": 0,
+        "time_begin": 67350,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 264,
+        "track": 2,
+        "type": 0,
+        "time_begin": 67580,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 265,
+        "track": 3,
+        "type": 0,
+        "time_begin": 67811,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 266,
+        "track": 2,
+        "type": 0,
+        "time_begin": 68042,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 267,
+        "track": 4,
+        "type": 0,
+        "time_begin": 68273,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 268,
+        "track": 3,
+        "type": 0,
+        "time_begin": 68504,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 269,
+        "track": 2,
+        "type": 0,
+        "time_begin": 68734,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 270,
+        "track": 4,
+        "type": 0,
+        "time_begin": 68734,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 271,
+        "track": 3,
+        "type": 0,
+        "time_begin": 68965,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 272,
+        "track": 2,
+        "type": 0,
+        "time_begin": 69196,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 273,
+        "track": 3,
+        "type": 0,
+        "time_begin": 69427,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 274,
+        "track": 1,
+        "type": 0,
+        "time_begin": 69657,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 275,
+        "track": 3,
+        "type": 0,
+        "time_begin": 69888,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 276,
+        "track": 2,
+        "type": 0,
+        "time_begin": 70119,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 277,
+        "track": 4,
+        "type": 0,
+        "time_begin": 70119,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 278,
+        "track": 3,
+        "type": 0,
+        "time_begin": 70350,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 279,
+        "track": 2,
+        "type": 0,
+        "time_begin": 70580,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 280,
+        "track": 3,
+        "type": 0,
+        "time_begin": 70811,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 281,
+        "track": 2,
+        "type": 0,
+        "time_begin": 71042,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 282,
+        "track": 4,
+        "type": 0,
+        "time_begin": 71273,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 283,
+        "track": 1,
+        "type": 0,
+        "time_begin": 71504,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 284,
+        "track": 3,
+        "type": 0,
+        "time_begin": 71504,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 285,
+        "track": 2,
+        "type": 0,
+        "time_begin": 71734,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 286,
+        "track": 3,
+        "type": 0,
+        "time_begin": 71965,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 287,
+        "track": 4,
+        "type": 0,
+        "time_begin": 72196,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 288,
+        "track": 3,
+        "type": 0,
+        "time_begin": 72427,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 289,
+        "track": 2,
+        "type": 0,
+        "time_begin": 72657,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 290,
+        "track": 1,
+        "type": 0,
+        "time_begin": 72888,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 291,
+        "track": 3,
+        "type": 0,
+        "time_begin": 72888,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 292,
+        "track": 4,
+        "type": 0,
+        "time_begin": 73119,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 293,
+        "track": 2,
+        "type": 0,
+        "time_begin": 73350,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 294,
+        "track": 4,
+        "type": 0,
+        "time_begin": 73580,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 295,
+        "track": 3,
+        "type": 0,
+        "time_begin": 73811,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 296,
+        "track": 4,
+        "type": 0,
+        "time_begin": 74042,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 297,
+        "track": 2,
+        "type": 0,
+        "time_begin": 74273,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 298,
+        "track": 3,
+        "type": 0,
+        "time_begin": 74504,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 299,
+        "track": 1,
+        "type": 0,
+        "time_begin": 74734,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 300,
+        "track": 2,
+        "type": 1,
+        "time_begin": 74965,
+        "time_end": 75657,
+        "switch": 0
+    },
+    {
+        "ID": 301,
+        "track": 4,
+        "type": 1,
+        "time_begin": 74965,
+        "time_end": 75657,
+        "switch": 0
+    },
+    {
+        "ID": 302,
+        "track": 1,
+        "type": 1,
+        "time_begin": 75657,
+        "time_end": 76350,
+        "switch": 0
+    },
+    {
+        "ID": 303,
+        "track": 3,
+        "type": 1,
+        "time_begin": 75657,
+        "time_end": 76350,
+        "switch": 0
+    },
+    {
+        "ID": 304,
+        "track": 2,
+        "type": 0,
+        "time_begin": 76350,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 305,
+        "track": 4,
+        "type": 0,
+        "time_begin": 76580,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 306,
+        "track": 2,
+        "type": 0,
+        "time_begin": 76811,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 307,
+        "track": 3,
+        "type": 0,
+        "time_begin": 77042,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 308,
+        "track": 1,
+        "type": 0,
+        "time_begin": 77042,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 309,
+        "track": 2,
+        "type": 0,
+        "time_begin": 77273,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 310,
+        "track": 3,
+        "type": 0,
+        "time_begin": 77504,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 311,
+        "track": 4,
+        "type": 0,
+        "time_begin": 77734,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 312,
+        "track": 3,
+        "type": 0,
+        "time_begin": 77965,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 313,
+        "track": 1,
+        "type": 0,
+        "time_begin": 78196,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 314,
+        "track": 4,
+        "type": 0,
+        "time_begin": 78427,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 315,
+        "track": 2,
+        "type": 0,
+        "time_begin": 78427,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 316,
+        "track": 3,
+        "type": 0,
+        "time_begin": 78657,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 317,
+        "track": 4,
+        "type": 0,
+        "time_begin": 78888,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 318,
+        "track": 1,
+        "type": 1,
+        "time_begin": 79119,
+        "time_end": 79580,
+        "switch": 0
+    },
+    {
+        "ID": 319,
+        "track": 2,
+        "type": 0,
+        "time_begin": 79580,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 320,
+        "track": 4,
+        "type": 1,
+        "time_begin": 79811,
+        "time_end": 80273,
+        "switch": 0
+    },
+    {
+        "ID": 321,
+        "track": 1,
+        "type": 0,
+        "time_begin": 80273,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 322,
+        "track": 2,
+        "type": 0,
+        "time_begin": 80504,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 323,
+        "track": 4,
+        "type": 0,
+        "time_begin": 80734,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 324,
+        "track": 3,
+        "type": 0,
+        "time_begin": 80965,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 325,
+        "track": 1,
+        "type": 1,
+        "time_begin": 81196,
+        "time_end": 81657,
+        "switch": 0
+    },
+    {
+        "ID": 326,
+        "track": 4,
+        "type": 0,
+        "time_begin": 81657,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 327,
+        "track": 3,
+        "type": 1,
+        "time_begin": 81888,
+        "time_end": 82350,
+        "switch": 0
+    },
+    {
+        "ID": 328,
+        "track": 1,
+        "type": 0,
+        "time_begin": 82350,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 329,
+        "track": 2,
+        "type": 1,
+        "time_begin": 82580,
+        "time_end": 83042,
+        "switch": 0
+    },
+    {
+        "ID": 330,
+        "track": 4,
+        "type": 0,
+        "time_begin": 83042,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 331,
+        "track": 3,
+        "type": 0,
+        "time_begin": 83273,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 332,
+        "track": 4,
+        "type": 0,
+        "time_begin": 83504,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 333,
+        "track": 2,
+        "type": 0,
+        "time_begin": 83734,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 334,
+        "track": 3,
+        "type": 1,
+        "time_begin": 83965,
+        "time_end": 84427,
+        "switch": 0
+    },
+    {
+        "ID": 335,
+        "track": 1,
+        "type": 0,
+        "time_begin": 84427,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 336,
+        "track": 3,
+        "type": 0,
+        "time_begin": 84657,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 337,
+        "track": 2,
+        "type": 0,
+        "time_begin": 84888,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 338,
+        "track": 4,
+        "type": 0,
+        "time_begin": 85119,
+        "time_end": 0,
+        "switch": 0
+    },
+    {
+        "ID": 339,
+        "track": 2,
+        "type": 1,
+        "time_begin": 85350,
+        "time_end": 86042,
+        "switch": 0
+    },
+    {
+        "ID": 340,
+        "track": 3,
+        "type": 1,
+        "time_begin": 86042,
+        "time_end": 86734,
+        "switch": 0
+    },
+    {
+        "ID": 341,
+        "track": 4,
+        "type": 1,
+        "time_begin": 86734,
+        "time_end": 87427,
+        "switch": 0
+    },
+    {
+        "ID": 342,
+        "track": 3,
+        "type": 1,
+        "time_begin": 87427,
+        "time_end": 88119,
+        "switch": 0
+    },
+    {
+        "ID": 343,
+        "track": 2,
+        "type": 1,
+        "time_begin": 88119,
+        "time_end": 89042,
+        "switch": 0
+    }
+]
