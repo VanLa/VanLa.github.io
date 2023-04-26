@@ -5,7 +5,7 @@
         "type": 0,
         "time_begin": 291,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 2,
@@ -13,7 +13,7 @@
         "type": 0,
         "time_begin": 535,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 3,
@@ -21,7 +21,7 @@
         "type": 0,
         "time_begin": 779,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 4,
@@ -29,7 +29,7 @@
         "type": 0,
         "time_begin": 1267,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 5,
@@ -37,7 +37,7 @@
         "type": 0,
         "time_begin": 1511,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 6,
@@ -45,7 +45,7 @@
         "type": 0,
         "time_begin": 1755,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 7,
@@ -53,7 +53,7 @@
         "type": 1,
         "time_begin": 2242,
         "time_end": 3096,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 8,
@@ -61,7 +61,7 @@
         "type": 1,
         "time_begin": 3096,
         "time_end": 4072,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 9,
@@ -69,7 +69,7 @@
         "type": 0,
         "time_begin": 4072,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 10,
@@ -77,7 +77,7 @@
         "type": 0,
         "time_begin": 4316,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 11,
@@ -85,7 +85,7 @@
         "type": 0,
         "time_begin": 4560,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 12,
@@ -93,7 +93,7 @@
         "type": 0,
         "time_begin": 5047,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 13,
@@ -101,7 +101,7 @@
         "type": 0,
         "time_begin": 5291,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 14,
@@ -109,7 +109,7 @@
         "type": 0,
         "time_begin": 5535,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 15,
@@ -117,7 +117,7 @@
         "type": 1,
         "time_begin": 6023,
         "time_end": 7121,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 16,
@@ -125,7 +125,7 @@
         "type": 1,
         "time_begin": 7121,
         "time_end": 8828,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 17,
@@ -133,7 +133,7 @@
         "type": 1,
         "time_begin": 7121,
         "time_end": 8828,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 18,
@@ -141,7 +141,7 @@
         "type": 0,
         "time_begin": 8828,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 19,
@@ -149,7 +149,7 @@
         "type": 0,
         "time_begin": 9072,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 20,
@@ -157,7 +157,7 @@
         "type": 0,
         "time_begin": 9316,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 21,
@@ -165,7 +165,7 @@
         "type": 0,
         "time_begin": 9803,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 22,
@@ -173,7 +173,7 @@
         "type": 0,
         "time_begin": 10047,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 23,
@@ -181,7 +181,7 @@
         "type": 0,
         "time_begin": 10291,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 24,
@@ -189,7 +189,7 @@
         "type": 1,
         "time_begin": 10779,
         "time_end": 11267,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 25,
@@ -197,7 +197,7 @@
         "type": 1,
         "time_begin": 11267,
         "time_end": 11755,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 26,
@@ -205,7 +205,7 @@
         "type": 1,
         "time_begin": 11755,
         "time_end": 12242,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 27,
@@ -213,7 +213,7 @@
         "type": 1,
         "time_begin": 12242,
         "time_end": 12730,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 28,
@@ -221,7 +221,7 @@
         "type": 0,
         "time_begin": 12730,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 29,
@@ -229,7 +229,7 @@
         "type": 0,
         "time_begin": 12974,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 30,
@@ -237,7 +237,7 @@
         "type": 0,
         "time_begin": 13218,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 31,
@@ -245,7 +245,7 @@
         "type": 0,
         "time_begin": 13706,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 32,
@@ -253,7 +253,7 @@
         "type": 0,
         "time_begin": 13950,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 33,
@@ -261,7 +261,7 @@
         "type": 0,
         "time_begin": 14194,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 34,
@@ -269,7 +269,7 @@
         "type": 1,
         "time_begin": 14682,
         "time_end": 15169,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 35,
@@ -277,7 +277,7 @@
         "type": 1,
         "time_begin": 15169,
         "time_end": 15657,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 36,
@@ -285,7 +285,7 @@
         "type": 1,
         "time_begin": 15657,
         "time_end": 16511,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 37,
@@ -293,7 +293,7 @@
         "type": 1,
         "time_begin": 16511,
         "time_end": 16999,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 38,
@@ -301,7 +301,7 @@
         "type": 0,
         "time_begin": 16999,
         "time_end": 0,
-        "switch": 1
+        "background": 1
     },
     {
         "ID": 39,
@@ -309,7 +309,7 @@
         "type": 0,
         "time_begin": 17242,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 40,
@@ -317,7 +317,7 @@
         "type": 0,
         "time_begin": 17608,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 41,
@@ -325,7 +325,7 @@
         "type": 0,
         "time_begin": 17852,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 42,
@@ -333,7 +333,7 @@
         "type": 0,
         "time_begin": 18096,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 43,
@@ -341,7 +341,7 @@
         "type": 0,
         "time_begin": 18340,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 44,
@@ -349,7 +349,7 @@
         "type": 0,
         "time_begin": 18584,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 45,
@@ -357,7 +357,7 @@
         "type": 0,
         "time_begin": 18828,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 46,
@@ -365,7 +365,7 @@
         "type": 1,
         "time_begin": 19072,
         "time_end": 20169,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 47,
@@ -373,7 +373,7 @@
         "type": 1,
         "time_begin": 20169,
         "time_end": 21145,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 48,
@@ -381,7 +381,7 @@
         "type": 1,
         "time_begin": 21145,
         "time_end": 22242,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 49,
@@ -389,7 +389,7 @@
         "type": 1,
         "time_begin": 22242,
         "time_end": 23218,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 50,
@@ -397,7 +397,7 @@
         "type": 0,
         "time_begin": 23218,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 51,
@@ -405,7 +405,7 @@
         "type": 0,
         "time_begin": 23706,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 52,
@@ -413,7 +413,7 @@
         "type": 0,
         "time_begin": 24316,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 53,
@@ -421,7 +421,7 @@
         "type": 0,
         "time_begin": 24803,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 54,
@@ -429,7 +429,7 @@
         "type": 0,
         "time_begin": 25291,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 55,
@@ -437,7 +437,7 @@
         "type": 0,
         "time_begin": 25779,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 56,
@@ -445,7 +445,7 @@
         "type": 0,
         "time_begin": 26023,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 57,
@@ -453,7 +453,7 @@
         "type": 1,
         "time_begin": 26267,
         "time_end": 26877,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 58,
@@ -461,7 +461,7 @@
         "type": 0,
         "time_begin": 26877,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 59,
@@ -469,7 +469,7 @@
         "type": 0,
         "time_begin": 27121,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 60,
@@ -477,7 +477,7 @@
         "type": 0,
         "time_begin": 27364,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 61,
@@ -485,7 +485,7 @@
         "type": 0,
         "time_begin": 27608,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 62,
@@ -493,7 +493,7 @@
         "type": 0,
         "time_begin": 27852,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 63,
@@ -501,7 +501,7 @@
         "type": 0,
         "time_begin": 28096,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 64,
@@ -509,7 +509,7 @@
         "type": 0,
         "time_begin": 28462,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 65,
@@ -517,7 +517,7 @@
         "type": 0,
         "time_begin": 28706,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 66,
@@ -525,7 +525,7 @@
         "type": 0,
         "time_begin": 28950,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 67,
@@ -533,7 +533,7 @@
         "type": 0,
         "time_begin": 29194,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 68,
@@ -541,7 +541,7 @@
         "type": 1,
         "time_begin": 29560,
         "time_end": 30047,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 69,
@@ -549,7 +549,7 @@
         "type": 1,
         "time_begin": 30047,
         "time_end": 30657,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 70,
@@ -557,7 +557,7 @@
         "type": 1,
         "time_begin": 30657,
         "time_end": 31145,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 71,
@@ -565,7 +565,7 @@
         "type": 1,
         "time_begin": 31145,
         "time_end": 31633,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 72,
@@ -573,7 +573,7 @@
         "type": 1,
         "time_begin": 31633,
         "time_end": 32121,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 73,
@@ -581,7 +581,7 @@
         "type": 1,
         "time_begin": 32121,
         "time_end": 32608,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 74,
@@ -589,7 +589,7 @@
         "type": 1,
         "time_begin": 32608,
         "time_end": 33584,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 75,
@@ -597,7 +597,7 @@
         "type": 0,
         "time_begin": 33584,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 76,
@@ -605,7 +605,7 @@
         "type": 0,
         "time_begin": 33584,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 77,
@@ -613,7 +613,7 @@
         "type": 1,
         "time_begin": 33950,
         "time_end": 35779,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 78,
@@ -621,7 +621,7 @@
         "type": 1,
         "time_begin": 33950,
         "time_end": 35779,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 79,
@@ -629,7 +629,7 @@
         "type": 0,
         "time_begin": 35779,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 80,
@@ -637,7 +637,7 @@
         "type": 0,
         "time_begin": 36236,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 81,
@@ -645,7 +645,7 @@
         "type": 1,
         "time_begin": 36480,
         "time_end": 38828,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 82,
@@ -653,7 +653,7 @@
         "type": 1,
         "time_begin": 36480,
         "time_end": 38828,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 83,
@@ -661,7 +661,7 @@
         "type": 0,
         "time_begin": 38828,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 84,
@@ -669,7 +669,7 @@
         "type": 0,
         "time_begin": 38828,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 85,
@@ -677,7 +677,7 @@
         "type": 0,
         "time_begin": 39438,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 86,
@@ -685,7 +685,7 @@
         "type": 0,
         "time_begin": 40047,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 87,
@@ -693,7 +693,7 @@
         "type": 0,
         "time_begin": 40657,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 88,
@@ -701,7 +701,7 @@
         "type": 0,
         "time_begin": 41023,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 89,
@@ -709,7 +709,7 @@
         "type": 1,
         "time_begin": 41267,
         "time_end": 42364,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 90,
@@ -717,7 +717,7 @@
         "type": 1,
         "time_begin": 42364,
         "time_end": 43828,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 91,
@@ -725,7 +725,7 @@
         "type": 0,
         "time_begin": 43828,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 92,
@@ -733,7 +733,7 @@
         "type": 1,
         "time_begin": 44560,
         "time_end": 45657,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 93,
@@ -741,7 +741,7 @@
         "type": 0,
         "time_begin": 45657,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 94,
@@ -749,7 +749,7 @@
         "type": 0,
         "time_begin": 46023,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 95,
@@ -757,7 +757,7 @@
         "type": 0,
         "time_begin": 46267,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 96,
@@ -765,7 +765,7 @@
         "type": 1,
         "time_begin": 46755,
         "time_end": 47852,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 97,
@@ -773,7 +773,7 @@
         "type": 0,
         "time_begin": 47852,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 98,
@@ -781,7 +781,7 @@
         "type": 0,
         "time_begin": 48218,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 99,
@@ -789,7 +789,7 @@
         "type": 0,
         "time_begin": 48462,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 100,
@@ -797,7 +797,7 @@
         "type": 0,
         "time_begin": 48706,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 101,
@@ -805,7 +805,7 @@
         "type": 0,
         "time_begin": 48950,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 102,
@@ -813,7 +813,7 @@
         "type": 0,
         "time_begin": 49194,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 103,
@@ -821,7 +821,7 @@
         "type": 1,
         "time_begin": 49438,
         "time_end": 50047,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 104,
@@ -829,7 +829,7 @@
         "type": 0,
         "time_begin": 50047,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 105,
@@ -837,7 +837,7 @@
         "type": 0,
         "time_begin": 50291,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 106,
@@ -845,7 +845,7 @@
         "type": 0,
         "time_begin": 50535,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 107,
@@ -853,7 +853,7 @@
         "type": 0,
         "time_begin": 51023,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 108,
@@ -861,7 +861,7 @@
         "type": 0,
         "time_begin": 51389,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 109,
@@ -869,7 +869,7 @@
         "type": 1,
         "time_begin": 51755,
         "time_end": 52486,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 110,
@@ -877,7 +877,7 @@
         "type": 0,
         "time_begin": 52486,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 111,
@@ -885,7 +885,7 @@
         "type": 0,
         "time_begin": 52974,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 112,
@@ -893,7 +893,7 @@
         "type": 0,
         "time_begin": 53340,
         "time_end": 0,
-        "switch": 1
+        "background": 1
     },
     {
         "ID": 113,
@@ -901,7 +901,7 @@
         "type": 0,
         "time_begin": 53584,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 114,
@@ -909,7 +909,7 @@
         "type": 0,
         "time_begin": 53828,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 115,
@@ -917,7 +917,7 @@
         "type": 0,
         "time_begin": 54316,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 116,
@@ -925,7 +925,7 @@
         "type": 0,
         "time_begin": 54560,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 117,
@@ -933,7 +933,7 @@
         "type": 0,
         "time_begin": 54803,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 118,
@@ -941,7 +941,7 @@
         "type": 1,
         "time_begin": 55291,
         "time_end": 55779,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 119,
@@ -949,7 +949,7 @@
         "type": 1,
         "time_begin": 55779,
         "time_end": 56267,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 120,
@@ -957,7 +957,7 @@
         "type": 1,
         "time_begin": 56267,
         "time_end": 56755,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 121,
@@ -965,7 +965,7 @@
         "type": 1,
         "time_begin": 56755,
         "time_end": 57242,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 122,
@@ -973,7 +973,7 @@
         "type": 0,
         "time_begin": 57242,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 123,
@@ -981,7 +981,7 @@
         "type": 0,
         "time_begin": 57486,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 124,
@@ -989,7 +989,7 @@
         "type": 0,
         "time_begin": 57730,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 125,
@@ -997,7 +997,7 @@
         "type": 0,
         "time_begin": 58218,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 126,
@@ -1005,7 +1005,7 @@
         "type": 0,
         "time_begin": 58462,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 127,
@@ -1013,7 +1013,7 @@
         "type": 0,
         "time_begin": 58706,
         "time_end": 0,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 128,
@@ -1021,7 +1021,7 @@
         "type": 1,
         "time_begin": 59072,
         "time_end": 59560,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 129,
@@ -1029,7 +1029,7 @@
         "type": 1,
         "time_begin": 59560,
         "time_end": 60047,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 130,
@@ -1037,7 +1037,7 @@
         "type": 1,
         "time_begin": 60047,
         "time_end": 60535,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 131,
@@ -1045,7 +1045,7 @@
         "type": 1,
         "time_begin": 60535,
         "time_end": 61023,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 132,
@@ -1053,7 +1053,7 @@
         "type": 1,
         "time_begin": 61023,
         "time_end": 61633,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 133,
@@ -1061,7 +1061,7 @@
         "type": 1,
         "time_begin": 61633,
         "time_end": 62121,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 134,
@@ -1069,7 +1069,7 @@
         "type": 1,
         "time_begin": 62121,
         "time_end": 62608,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 135,
@@ -1077,7 +1077,7 @@
         "type": 1,
         "time_begin": 62608,
         "time_end": 63096,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 136,
@@ -1085,7 +1085,7 @@
         "type": 1,
         "time_begin": 63096,
         "time_end": 63584,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 137,
@@ -1093,7 +1093,7 @@
         "type": 1,
         "time_begin": 63584,
         "time_end": 64194,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 138,
@@ -1101,7 +1101,7 @@
         "type": 1,
         "time_begin": 64194,
         "time_end": 64682,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 139,
@@ -1109,7 +1109,7 @@
         "type": 1,
         "time_begin": 64682,
         "time_end": 65169,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 140,
@@ -1117,7 +1117,7 @@
         "type": 1,
         "time_begin": 65169,
         "time_end": 65657,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 141,
@@ -1125,7 +1125,7 @@
         "type": 1,
         "time_begin": 65657,
         "time_end": 66145,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 142,
@@ -1133,7 +1133,7 @@
         "type": 1,
         "time_begin": 66145,
         "time_end": 66633,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 143,
@@ -1141,7 +1141,7 @@
         "type": 1,
         "time_begin": 66633,
         "time_end": 67242,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 144,
@@ -1149,7 +1149,7 @@
         "type": 1,
         "time_begin": 67242,
         "time_end": 70047,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 145,
@@ -1157,7 +1157,7 @@
         "type": 1,
         "time_begin": 67242,
         "time_end": 70047,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 146,
@@ -1165,7 +1165,7 @@
         "type": 1,
         "time_begin": 70047,
         "time_end": 71023,
-        "switch": 0
+        "background": 0
     },
     {
         "ID": 147,
@@ -1173,6 +1173,6 @@
         "type": 1,
         "time_begin": 71023,
         "time_end": 72974,
-        "switch": 0
+        "background": 0
     }
 ]

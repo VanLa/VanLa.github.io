@@ -194,7 +194,7 @@
         "type": 0,
         "time_begin": 11605,
         "time_end": 0,
-        "switch": 1
+        "background": 1
     },
     {
         "ID": 29,
@@ -629,7 +629,7 @@
         "type": 0,
         "time_begin": 31503,
         "time_end": 0,
-        "switch": 1
+        "background": 1
     },
     {
         "ID": 91,
@@ -973,7 +973,7 @@
         "type": 0,
         "time_begin": 51094,
         "time_end": 0,
-        "switch": 1
+        "background": 1
     },
     {
         "ID": 140,
