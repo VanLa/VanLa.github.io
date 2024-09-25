@@ -10960,10 +10960,6 @@ header.masthead {
   background-position: center center;
   background-size: cover;
 }
-@font-face {
-  font-family: "MyLocalFont";
-  src: url("../assets/HarmonyOS_Sans_SC_Regular.ttf") format("truetype");
-}
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
   font-style: italic;
